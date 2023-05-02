@@ -1,0 +1,15 @@
+/home/estudante1/SP3065847/ControleDeGastos/bin/Debug/net7.0/ControleDeGastos
+/home/estudante1/SP3065847/ControleDeGastos/bin/Debug/net7.0/ControleDeGastos.deps.json
+/home/estudante1/SP3065847/ControleDeGastos/bin/Debug/net7.0/ControleDeGastos.runtimeconfig.json
+/home/estudante1/SP3065847/ControleDeGastos/bin/Debug/net7.0/ControleDeGastos.dll
+/home/estudante1/SP3065847/ControleDeGastos/bin/Debug/net7.0/ControleDeGastos.pdb
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.csproj.AssemblyReference.cache
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.AssemblyInfoInputs.cache
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.AssemblyInfo.cs
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.csproj.CoreCompileInputs.cache
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.dll
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/refint/ControleDeGastos.dll
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.pdb
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ControleDeGastos.genruntimeconfig.cache
+/home/estudante1/SP3065847/ControleDeGastos/obj/Debug/net7.0/ref/ControleDeGastos.dll
